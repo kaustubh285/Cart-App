@@ -1,0 +1,5 @@
+["Bread", "Milk", "Beer"],
+["Bread", "Diapers", "Eggs"],
+["Milk", "Diapers", "Beer", "Cola"],
+["Bread", "Milk", "Diapers", "Beer"],
+["Bread", "Milk", "Cola"]
